@@ -23,6 +23,7 @@ OSGeo 101 workshop
         sponzors/index
         organisation/index
         faq/index
+        resources/index
 
 
 .. important:: This workshop should be updated for any event, you plan to use
