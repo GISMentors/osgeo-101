@@ -1,8 +1,12 @@
-==================
+******************
 OSGeo introduction
-==================
+******************
 
-`OSGeo <http://osgeo.org>`_ is a not-for-profit software foundation.
+.. image:: images/osgeo-logo-rgb.png
+        :width: 320px
+        :align: left
+
+Open source geospatial foundation -  `OSGeo <http://osgeo.org>`_ is a not-for-profit software foundation.
 
 **Provides support for projects:**
 
@@ -18,6 +22,11 @@ OSGeo introduction
 **OSGeo is a volunteer driven org**
 
 * Passionate membership of individuals from around the world.
-* If you will not do it, nobody else will.
+* If you will not do it, nobody else will (this is the case of this workshop).
 
 
+.. toctree::
+
+        opengeospatial
+        not-for-profit
+        volunteers

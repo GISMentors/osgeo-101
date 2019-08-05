@@ -18,10 +18,11 @@ OSGeo 101 workshop
         :caption: Contents:
 
         intro/index
+        organisation/index
         projects/index
+        osgeolive/index
         community/index
         sponzors/index
-        organisation/index
         faq/index
         resources/index
 
