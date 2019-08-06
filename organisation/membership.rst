@@ -58,6 +58,8 @@ It's described `in the Wiki
 
 From now on, you are recognized as official OSGeo Member.
 
+OSGeo currently has 1219 members (summer 2019)
+
 Howto become Charter Member
 ---------------------------
 
@@ -78,20 +80,5 @@ A Charter Member can be
 * should believe in the general goals of the Foundation
 * should be prepared to works constructively and positively towards the goals of the Foundation. Good teamwork skills are an asset.
 
-Howto become Board Member
--------------------------
+OSGeo currently has `427 Charter Members <https://www.osgeo.org/about/charter-members/>`_ (summer 2019).
 
-.. todo:: This chapter belongs to organisation/management
-
-**Step 1.**
-        Become Member
-**Step 2.**
-        Become Charter Member
-**Step 3.**
-        Be active, communicative, productive, nice to others ...
-
-1. Accept nomination from other Charter member(s)
-2. Be elected
-3. Enjoy
-
-Afterwards, you may check  https://wiki.osgeo.org/wiki/Board_of_Directors
