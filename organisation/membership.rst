@@ -50,6 +50,8 @@ It's described `in the Wiki
 
 1. `Request OSGeo Wiki Account <https://wiki.osgeo.org/wiki/Special:RequestAccount>`_
    if you do not have already.
+   - Confirm the e-mail 
+   - Wait till your request is confirmed 
 2. Go to `Create or edit <https://wiki.osgeo.org/wiki/Form:OSGeo_Member>`_
    membership page
 3. Enter your user page, e.g. `user:jachym`
