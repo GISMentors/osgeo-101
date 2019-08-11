@@ -20,9 +20,7 @@ OSGeo 101 workshop
         intro/index
         organisation/index
         projects/index
-        osgeolive/index
-        community/index
-        sponzors/index
+        sponsors/index
         faq/index
         resources/index
 

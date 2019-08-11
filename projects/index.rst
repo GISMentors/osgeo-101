@@ -1,6 +1,6 @@
-==============
+**************
 OSGeo Projects
-==============
+**************
 
 `The OSGeo Projects <https://www.osgeo.org/projects/>`_ are freely available
 tools and technologies under an open source license, which are recognized by
@@ -44,8 +44,9 @@ Web Mapping
         * PyWPS
         * GeoServer
 
+======================================
 What does it mean, to be OSGeo Project
---------------------------------------
+======================================
 
 This means, that an open source geospatial-related project had to go through the
 `incubation process <https://wiki.osgeo.org/wiki/Incubation_Committee>`_. During
@@ -73,9 +74,9 @@ Some never incubate.
 *Q: Is OSGeo providing software certification?*
         Kind of. Making sure, that the community is open and stable.
 
-========================
+************************
 OSGeo Community projects
-========================
+************************
 
 Maybe your project is too small. Maybe the community is not big enough. But you
 still want to affiliate your project to OSGeo.
@@ -101,3 +102,7 @@ One day, your project may approach the full incubation.
 * Pronto Raster
 * Virtual Terrain Project
 * Loader
+
+.. toctree::
+
+        osgeolive
