@@ -9,9 +9,7 @@ OSGeo 101 workshop
 
 .. image:: images/osgeo-logo-rgb.png
         :width: 320px
-        :align: left
 
-`OSGeo <http://osgeo.org/>`_  is ...
 
 .. toctree::
         :maxdepth: 2
@@ -21,6 +19,7 @@ OSGeo 101 workshop
         organisation/index
         projects/index
         sponsors/index
+        missing
         faq/index
         resources/index
 
@@ -50,11 +49,9 @@ Authors
 Online publication
 ------------------
 
-.. only:: latex
+Online version of this document is available for download from
 
-   Online version of this document is available for download from
-
-   * http://training.gismentors.eu/osgeo-101/
+* https://osgeo-101.readthedocs.io/en/latest/
 
 Source code of the workshop is available at
 

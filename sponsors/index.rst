@@ -1,3 +1,8 @@
+.. index::
+
+        single: sponsors
+        single: sponsoring
+
 **************
 OSGeo Sponsors
 **************

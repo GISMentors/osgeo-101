@@ -1,3 +1,16 @@
+.. index::
+
+        pair: Board of Directors; board
+        single: voting
+        single: loomio
+        single: issues
+        single: irc
+        single: mailing list
+        single: face to face meeting
+        single: elections
+        single: bylaws
+
+
 ==================
 Board and Officers
 ==================
@@ -12,15 +25,19 @@ Members of the Board are spread around the world
 
 As for now (summer 2019), the members of the Board are
 
-* Helena Mitasova (Raleigh, North Carolina, USA)
-* Jeff McKenna (Lunenburg, Canada)
-* Jody Garnett (Victoria, Canada)
-* Tom Kralidis (Toronto, Canada)
-* Astrid Emde (Cologne, Germany)
-* Angelos Tzotsos (Athens, Greece)
-* Michael Smith (Hanover, USA)
-* María Arias de Reyna (Sevilla, Spain)
-* Victoria Rautenbach (Pretoria, South Africa)
+* `Helena Mitasova <https://www.osgeo.org/member/helena-mitasova/>`_ (Raleigh, North Carolina, USA)
+* `Jeff McKenna <https://www.osgeo.org/member/jeff-mckenna/>`_ (Lunenburg, Canada)
+* `Jody Garnett <https://www.osgeo.org/member/jody-garnett/>`_ (Victoria, Canada)
+* `Tom Kralidis <https://www.osgeo.org/member/tom-kralidis/>`_ (Toronto, Canada)
+* `Astrid Emde <https://www.osgeo.org/member/astrid-emde/>`_ (Cologne, Germany)
+* `Angelos Tzotsos <https://www.osgeo.org/member/angelos-tzotsos/>`_ (Athens, Greece)
+* `Michael Smith <https://www.osgeo.org/member/michael-smith/>`_ (Hanover, USA)
+* `María Arias de Reyna <https://www.osgeo.org/member/maria-arias-de-reyna/>`_ (Sevilla, Spain)
+* `Victoria Rautenbach <https://www.osgeo.org/member/rautenbach/>`_ (Pretoria, South Africa)
+
+.. figure:: ../images/board.png
+
+        Curent members of the Board
 
 Board organisation
 ^^^^^^^^^^^^^^^^^^
@@ -70,7 +87,7 @@ Focus
         make strategic decisions related to the running of OSGeo.
 
 Payment (lack of)
-        Directors are not paid for their service (bylaws section 3.4), but director
+        Directors are not paid for their service (`bylaws section 3.4 <https://www.osgeo.org/about/bylaws/>`_), but director
         should not be out of pocket when working for the board.
 
 Time Commitment

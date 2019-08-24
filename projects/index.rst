@@ -1,3 +1,10 @@
+.. index::
+
+        pair: OSGeo project; project
+        pair: OSGeo community project; community project
+        single: certification
+        signle: incubation
+
 **************
 OSGeo Projects
 **************
@@ -71,7 +78,7 @@ Longest project in incubation: PyWPS - 9 years
 
 Some never incubate.
 
-*Q: Is OSGeo providing software certification?*
+**Is OSGeo providing software certification?**
         Kind of. Making sure, that the community is open and stable.
 
 ************************

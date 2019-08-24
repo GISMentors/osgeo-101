@@ -1,3 +1,12 @@
+.. index::
+        single: open source
+        pair: open source; software
+        pair: open data; data
+        pair: open standards; standards
+        pair: open education; education
+        pair: open science; science
+        pair: open community; community
+
 ===============
 Open geospatial
 ===============

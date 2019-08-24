@@ -1,3 +1,10 @@
+.. index::
+        single: UserID
+        single: mailing list
+        single: wiki
+        single: trac
+        pair: gitea; git
+
 ================
 The tools we use
 ================
@@ -7,19 +14,32 @@ remain the same. Some of them were pretty modern back in the days (like Wiki),
 some up-to-date (e-mail), some were considered old-time even in those days
 (IRC), but we did not find anything better.
 
+OSGeo UserID
+-------------
+
+Get your `UserID
+<https://www.osgeo.org/community/getting-started-osgeo/osgeo_userid/>`_, you may
+use it for various services within OSGeo.
+
 Mailing lists: For daily communication
 --------------------------------------
+
+.. figure:: https://www.gnu.org/software/mailman/images/logo2010-2.jpg
+
+        OSGeo uses `GNU Mailman
+        <https://www.gnu.org/software/mailman/index.html>`_ for empowering the
+        lists infrastructure.
 
 Mailing lists are the heard and soul of OSGeo community communication. 99% of
 what is happening in the community, all the organisation happens in asynchronous
 mode via mailing list.
 
-*What is an mailing list?*
+**What is an mailing list?**
         `An electronic mailing list or email list
         <https://en.wikipedia.org/wiki/Electronic_mailing_list>`_ is a special
         use of email that allows for widespread distribution of information to
         many Internet users. It is similar to a traditional mailing list - a
-        list of names and addresses - as might be kept by an organization for
+        list of names and addresses - as might be kept by an org anization for
         sending publications to its members or customers, but typically refers
         to four things:
 
@@ -32,9 +52,9 @@ mode via mailing list.
           the subscribers.
 
         In short: you send e-mail to one address and it will arrive into mailbox
-        of another thousends of people, who subscribed for it.
+        of another thousands of people, who subscribed for it.
 
-*Where are relevant mailing list of OSGeo? What the one interesting for me?*
+**Where are relevant mailing list of OSGeo? What the one interesting for me?**
 
         You go ti https://lists.osgeo.org and see the list. There are at the
         moment (summer 2019) 296 (!) mailing lists. You have to choose one by
@@ -46,7 +66,7 @@ Generally speaking, there are several types of e-mail lists within OSGeo:
 * Local chapter mailing lists
 * Projects mailing list.
 
-*Which mailing lists is worth to follow?*
+**Which mailing lists is worth to follow?**
         This depends on your focus and interest. It's always good to watch your
         project user list (e.g. https://lists.osgeo.org/mailman/listinfo/qgis-user).
         If you are interested in OSGeo itself, you may follow one or two OSGeo
@@ -59,7 +79,7 @@ Some of the OSGeo mailing lists and their purpose
 `OSGeo-Discuss <https://lists.osgeo.org/mailman/listinfo/discuss>`_
         This is, where most of the day-to-day communication within OSGeo takes
         place. If you are looking for some hint or need to talk to most of the
-        people within OSGeo, this is tha place to go.
+        people within OSGeo, this is the place to go.
 
         `Archive <https://lists.osgeo.org/pipermail/discuss/>`_  Expect traffic
         about n*10^1 emails per week.
@@ -80,8 +100,8 @@ How to subscribe to mailing list
 4. Set filters in your mail box!
 5. Consider fine-tuning your "out-of-office" automatic response
 
-*Q: May I greet everybody, once Ḯ'm in?*
-        No. Write only, if you have something real to say. It's ok to itroduce
+**May I greet everybody, once Ḯ'm in?**
+        No. Write only, if you have something real to say. It's ok to introduce
         yourself if you did not do it so far, but stick to the topic and try to
         keep to traffic as low as possible.
 
@@ -99,6 +119,11 @@ The Wiki: Archive and documentation
 
 https://wiki.osgeo.org
 
+
+.. figure:: https://upload.wikimedia.org/wikipedia/commons/6/64/MediaWiki_logo_without_tagline.png
+
+        OSGeo uses `MediaWiki <https://www.mediawiki.org/wiki/MediaWiki>`_
+
 Wiki is the archive and way how to create documents collaboratively. There is
 track of all the documents, users, day-to-day records for the committees and
 ad-hoc teams. 
@@ -113,7 +138,7 @@ something similar, which you can pick and start to work at.
 IRC: oneline chat
 -----------------
 
-For online chat as well as for  committee meetings, we use `IRC (Internet Relay Chat) <https://en.wikipedia.org/wiki/Internet_Relay_Chat>`_. Even it's possible to install IRC server on your own hardware,
+For online chat as well as for  committee meetings, we use `IRC (Internet Relay Chat) <https://en.wikipedia.org/wiki/Internet_Relay_Chat>`_ - protocol, which was created in 1988(!). Even it's possible to install IRC server on your own hardware,
 OSGeo uses service provided by the `Freenode <https://freenode.net/>`_ server.
 
 All you have to do, is to go to the `webchat https://webchat.freenode.net/ <https://webchat.freenode.net/>`_, pick you nick name and know the chatroom you want to join. There are permanent chatrooms as well as

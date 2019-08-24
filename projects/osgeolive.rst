@@ -1,3 +1,7 @@
+.. index::
+
+        single: OSGeo Live
+
 =========
 OSGeoLive
 =========
