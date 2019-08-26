@@ -135,8 +135,8 @@ Everybody can create new page any time, but search twice and things at least
 twice, before you start a new page - maybe there is already just existing
 something similar, which you can pick and start to work at.
 
-IRC: oneline chat
------------------
+IRC: online chat
+----------------
 
 For online chat as well as for  committee meetings, we use `IRC (Internet Relay Chat) <https://en.wikipedia.org/wiki/Internet_Relay_Chat>`_ - protocol, which was created in 1988(!). Even it's possible to install IRC server on your own hardware,
 OSGeo uses service provided by the `Freenode <https://freenode.net/>`_ server.

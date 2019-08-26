@@ -13,7 +13,7 @@ OSGeo introduction
         :width: 320px
         :align: left
 
-Open source geospatial foundation -  `OSGeo <http://osgeo.org>`_ is a not-for-profit software foundation.
+Open source geospatial foundation -  `OSGeo <https://osgeo.org>`_ is a not-for-profit software foundation.
 OSGeo has `US 501(c)(4) <https://en.wikipedia.org/wiki/501(c)_organization#501.28c.29.284.29>`_
 legal status as a not-for-profit organization.
 

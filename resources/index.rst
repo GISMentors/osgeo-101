@@ -14,9 +14,9 @@ Web pages
 =========
 
 OSGeo main page
-        http://osgeo.org
+        https://osgeo.org
 
 OSGeo wiki
-        http://wiki.osgeo.org
+        https://wiki.osgeo.org
 
 
