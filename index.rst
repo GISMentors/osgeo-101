@@ -33,7 +33,7 @@ About this workshop
 
 License of this workshop is `Creative Commons
 Attribution-ShareAlike 4.0 International License
-<http://creativecommons.org/licenses/by-sa/4.0/>`_.
+<https://creativecommons.org/licenses/by-sa/4.0/>`_.
 
 .. figure:: images/cc-by-sa.png 
    :width: 130px
