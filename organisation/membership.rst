@@ -26,22 +26,22 @@ Participant, Member, and Charter Member.
 Participants
 ------------
 
-* Anybody can be just participant
+* Anybody can be a participant.
 
 Members
 -------
 
-* Still self-declared
-* on the `Wiki <https://wiki.osgeo.org/wiki/Category:OSGeo_Member>`_
-* no voting rights (just general polls)
-* opt-in
+* Still self-declared.
+* On the `Wiki <https://wiki.osgeo.org/wiki/Category:OSGeo_Member>`_.
+* No voting rights (just general polls).
+* Opt-in.
 
 Charter members
 ---------------
 
-* must be voted into this category by the other Charter Members
-* have the right to vote in elections for other Charter Members, and for Board Members. 
-* can be elected as Board Member
+* Must be voted into this category by the other Charter Members.
+* Have the right to vote in elections for other Charter Members, and for Board Members.
+* Van be elected as Board Member.
 
 ==============
 Being a member
@@ -57,30 +57,30 @@ discussion and consensus.
 Membership howtos
 =================
 
-Howto become a Member
+How to become a Member
 ---------------------
 It's described `in the Wiki
 <https://wiki.osgeo.org/wiki/Category:OSGeo_Member>`_
 
 
 1. `Request OSGeo Wiki Account <https://wiki.osgeo.org/wiki/Special:RequestAccount>`_
-   if you do not have already.
+   if you have not already.
 2. Go to `Create or edit <https://wiki.osgeo.org/wiki/Form:OSGeo_Member>`_
-   membership page
-3. Enter your user page, e.g. `user:jachym <https://wiki.osgeo.org/wiki/User:Jachym>`_
-4. Fill the details in the form
+   membership page.
+3. Enter your user page, e.g. `user:jachym <https://wiki.osgeo.org/wiki/User:Jachym>`_.
+4. Fill the details in the form.
 5. Save and done - you will appear in the `user map <https://wiki.osgeo.org/wiki/Category:OSGeo_Member>`_ as well as in the `list of members <https://wiki.osgeo.org/wiki/Special:Ask/-5B-5BCategory:OSGeo-20Member-5D-5D/-3FName/-3FAddress/-3FCountry/-3FState/-3FCity/-3FCoordinate/-3FLocalChapter/-3FEmail/-3FWebsite/format%3Dbroadtable/searchlabel%3DClick-20here-20for-20a-20tabular-20overview/offset%3D0>`_.
 
-From now on, you are recognized as official OSGeo Member.
+From now on, you are recognised as official OSGeo Member.
 
 OSGeo currently has 1219 members (summer 2019)
 
-Howto become Charter Member
+How to become Charter Member
 ---------------------------
 
-You can become Charter Member by
+You can become Charter Member by:
 
-1. You have to be nominated by other Charter Member
+1. First being nominated by another Charter Member
 2. You are then confirmed by the annual Charter Member election (usually before
    FOSS4G) See https://wiki.osgeo.org/wiki/Category:Elections
 
@@ -90,10 +90,10 @@ You can become Charter Member by
 
 A Charter Member can be
 
-* person, who have already made a contribution to open source geospatial software, data or education.
-* should be willing to put in time and effort on Foundation activities
-* should believe in the general goals of the Foundation
-* should be prepared to works constructively and positively towards the goals of the Foundation. Good teamwork skills are an asset.
+* A person, who has already made a contribution to open source geospatial software, data or education.
+* Should be willing to put in time and effort on Foundation activities.
+* Should believe in the general goals of the Foundation.
+* Should be prepared to works constructively and positively towards the goals of the Foundation. Good teamwork skills are an asset.
 
 OSGeo currently has `427 Charter Members <https://www.osgeo.org/about/charter-members/>`_ (summer 2019).
 

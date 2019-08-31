@@ -17,13 +17,13 @@ Board and Officers
 
 Board of directors
 ------------------
-OSGeo executive body is call the `Board of Directors <https://www.osgeo.org/about/board/>`_.
+OSGeo executive body is called the `Board of Directors <https://www.osgeo.org/about/board/>`_.
 
 The Board has 9 members, they are elected every 2 years, always half of it.
 
-Members of the Board are spread around the world
+Members of the Board are spread around the world.
 
-As for now (summer 2019), the members of the Board are
+As for now (summer 2019), the members of the Board are:
 
 * `Helena Mitasova <https://www.osgeo.org/member/helena-mitasova/>`_ (Raleigh, North Carolina, USA)
 * `Jeff McKenna <https://www.osgeo.org/member/jeff-mckenna/>`_ (Lunenburg, Canada)
@@ -55,7 +55,7 @@ There are also occasional face-to-face meetings, usually organised during
 conferences (there is one at this FOSS4G as well).
 
 You can always join the Board meeting. You can always check the voting results.
-You can usually participate at the Board's meeting actively (although hight
+You can usually participate at the Board's meeting actively (although a high
 level of discipline is needed, since the meeting is having it's agenda, people
 are spread around the world in different time zones).
 
@@ -67,9 +67,9 @@ Howto become Board Member
 .. todo:: This chapter belongs to organisation/management
 
 **Step 1.**
-        Become Member
+        Become a Member
 **Step 2.**
-        Become Charter Member
+        Become a Charter Member
 **Step 3.**
         Be active, communicative, productive, nice to others ...
 
@@ -77,7 +77,7 @@ Howto become Board Member
 2. Be elected
 3. Enjoy
 
-Beeing the Board Member
+Being the Board Member
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 https://wiki.osgeo.org/wiki/Director_Responsibilities
