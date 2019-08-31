@@ -4,13 +4,13 @@ Board and Officers
 
 Board of directors
 ------------------
-OSGeo executive body is call the `Board of Directors <https://www.osgeo.org/about/board/>`_.
+OSGeo executive body is called the `Board of Directors <https://www.osgeo.org/about/board/>`_.
 
-The Board has 9 members, they are elected every 2 years, always half of it.
+The Board has 9 members, they are elected every two years, always half of it.
 
-Members of the Board are spread around the world
+Members of the Board are spread around the world.
 
-As for now (summer 2019), the members of the Board are
+As for now (summer 2019), the members of the Board are:
 
 * Helena Mitasova (Raleigh, North Carolina, USA)
 * Jeff McKenna (Lunenburg, Canada)
@@ -38,9 +38,9 @@ There are also occasional face-to-face meetings, usually organised during
 conferences (there is one at this FOSS4G as well).
 
 You can always join the Board meeting. You can always check the voting results.
-You can usually participate at the Board's meeting actively (although hight
+You can usually participate at the Board's meeting actively (although a high
 level of discipline is needed, since the meeting is having it's agenda, people
-are spread around the world in different time zones).
+are spread around the world throughout time zones).
 
 And of course, there is the `Board mailing list <https://lists.osgeo.org/mailman/listinfo/board>`_
 
@@ -50,9 +50,9 @@ Howto become Board Member
 .. todo:: This chapter belongs to organisation/management
 
 **Step 1.**
-        Become Member
+        Become a Member
 **Step 2.**
-        Become Charter Member
+        Become a Charter Member
 **Step 3.**
         Be active, communicative, productive, nice to others ...
 
@@ -60,7 +60,7 @@ Howto become Board Member
 2. Be elected
 3. Enjoy
 
-Beeing the Board Member
+Being a Board Member
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 https://wiki.osgeo.org/wiki/Director_Responsibilities
@@ -70,8 +70,8 @@ Focus
         make strategic decisions related to the running of OSGeo.
 
 Payment (lack of)
-        Directors are not paid for their service (bylaws section 3.4), but director
-        should not be out of pocket when working for the board.
+        Directors are not paid for their service (bylaws section 3.4), but should
+        not be out of pocket when working for the board.
 
 Time Commitment
         Directors should expect to spend 4 to 12 hours per month of their spare time on
